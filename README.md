@@ -14,9 +14,6 @@ This project analyzes U.S. accident data using rich, interactive visualizations 
 
 ---
 
-
----
-
 ## 🛠️ Tech Stack
 
 - Python, Pandas, NumPy
